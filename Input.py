@@ -1,0 +1,6 @@
+name=input("Enter your name:")
+print("The name entered is:"+ name)
+value1=input("Enter first value:")
+value2=input("Enter Second Value:")
+sum=int(value1)+ int(value2)
+print(sum)
