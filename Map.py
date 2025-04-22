@@ -6,5 +6,5 @@ x=map(sq,number)
 
 print(x)
 
-x=set(number)
+x=list(x)
 print(x)
