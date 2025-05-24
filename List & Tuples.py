@@ -6,5 +6,4 @@ fruits=["Apple", "Mango", "Oranges", "Bananas"]
 print(fruits[0])
 print(fruits[0:2])
 print(fruits[:3])
-for x in fruits:
-    print(x)
+
